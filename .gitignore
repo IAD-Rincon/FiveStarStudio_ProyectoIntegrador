@@ -142,3 +142,17 @@ crashlytics-build.properties
 
 # Carpeta temporal de las pruebas del Test Runner
 /[Aa]ssets/InitTestScene*.unity*
+
+# Carpetas que Unity crea si se abre la carpeta Assets como proyecto (no deben estar dentro de Assets)
+/[Aa]ssets/[Ll]ibrary/
+/[Aa]ssets/[Ll]ibrary.meta
+/[Aa]ssets/[Tt]emp/
+/[Aa]ssets/[Tt]emp.meta
+/[Aa]ssets/[Ll]ogs/
+/[Aa]ssets/[Ll]ogs.meta
+/[Aa]ssets/[Uu]ser[Ss]ettings/
+/[Aa]ssets/[Uu]ser[Ss]ettings.meta
+/[Aa]ssets/[Pp]roject[Ss]ettings/
+/[Aa]ssets/[Pp]roject[Ss]ettings.meta
+/[Aa]ssets/[Pp]ackages/
+/[Aa]ssets/[Pp]ackages.meta
